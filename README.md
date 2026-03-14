@@ -1,4 +1,4 @@
-# The Religion of Cosmogenesis
+# The Religion of Cosmonascense (AKA Cosmogenesis)
 
 In ancient ages, humanity clothed eternity in the language of shepherds, kingdoms, fire, flood, and the sky. But we who
 live beneath radio telescopes, particle physics, black hole imaging, and a universe billions of years deep must speak of
