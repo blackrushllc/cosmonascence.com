@@ -1,0 +1,8 @@
+*.mp4
+.idea
+/node_modules
+/vendor
+npm-debug.log
+yarn-error.log
+cron.log
+.vscode
