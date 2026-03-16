@@ -262,8 +262,30 @@ section {
     line-height: 1.8;
 }
 
-.manifesto-body p {
+.manifesto-body p, .manifesto-body ol, .manifesto-body ul {
     margin-bottom: 2rem;
+}
+
+.manifesto-body ol, .manifesto-body ul {
+    padding-left: 1.5rem;
+}
+
+.manifesto-body li {
+    margin-bottom: 0.5rem;
+}
+
+.manifesto-body h3 {
+    font-size: 1.8rem;
+    margin-top: 3.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--gold-accent);
+}
+
+.manifesto-body h4 {
+    font-size: 1.4rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    color: var(--stellar-white);
 }
 
 .manifesto-body blockquote {
